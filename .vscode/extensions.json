@@ -3,17 +3,14 @@
     // my extensions, ofc :P
     "antfu.browse-lite",
     "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
     "antfu.vite",
     "antfu.where-am-i",
     "lokalise.i18n-ally",
 
     // themes & icons
-    "antfu.icons-carbon",
-    "antfu.theme-vitesse",
-    "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
+    "akamud.vscode-theme-onedark",
+    "PKief.material-icon-theme",
+    "2gua.rainbow-brackets",
 
     // life savers!
     "dbaeumer.vscode-eslint",
@@ -27,12 +24,17 @@
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "GitHub.vscode-pull-request-github",
-    "mpontus.tab-cycle",
     "naumovs.color-highlight",
     "richie5um2.vscode-sort-json",
     "unional.vscode-sort-package-json",
     "voorjaar.windicss-intellisense",
     "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+    "Gruntfuggly.todo-tree",
+    "hediet.vscode-drawio",
+    "qcz.restart-ts-server-button",
+    "ms-vscode-remote.remote-ssh",
+    "natqe.reload",
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }
