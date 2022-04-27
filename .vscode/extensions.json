@@ -1,7 +1,6 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
-    "antfu.browse-lite",
+    // antfu's extensions, ofc :P
     "antfu.iconify",
     "antfu.vite",
     "antfu.where-am-i",
@@ -35,6 +34,7 @@
     "qcz.restart-ts-server-button",
     "ms-vscode-remote.remote-ssh",
     "natqe.reload",
-    "shd101wyy.markdown-preview-enhanced"
+    "shd101wyy.markdown-preview-enhanced",
+    "kejun.devtoys"
   ]
 }
